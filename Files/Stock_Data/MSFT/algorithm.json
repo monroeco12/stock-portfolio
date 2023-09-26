@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 85,
+  "Indicator_List": ["adl"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "I/I",
+  "Sell_Pattern": "D/D",
+  "Sell_Profit": 0.015,
+  "Sell_Loss": -0.24,
+
+  "Algorithm_Value": 3.0016,
+  "Algorithm_Date": "2023-07-22"
+}

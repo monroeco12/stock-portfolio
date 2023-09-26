@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 135,
+  "Indicator_List": ["stochastic"],
+  "Indicator_Strength": 1,
+  "Buy_Pattern": "I/I",
+  "Sell_Pattern": "D/I",
+  "Sell_Profit": 0.005,
+  "Sell_Loss": -0.08,
+
+  "Algorithm_Value": 5.9228,
+  "Algorithm_Date": "2023-06-04"
+}

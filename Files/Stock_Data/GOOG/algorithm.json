@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 135,
+  "Indicator_List": ["pivots"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "I/I",
+  "Sell_Pattern": "I/D",
+  "Sell_Profit": 0.02,
+  "Sell_Loss": -0.01,
+
+  "Algorithm_Value": 3.5448,
+  "Algorithm_Date": "2023-06-03"
+}

@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 10,
+  "Indicator_List": ["stochastic"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "I/I",
+  "Sell_Pattern": "IGNORE",
+  "Sell_Profit": 0.005,
+  "Sell_Loss": -0.19,
+
+  "Algorithm_Value": 2.4317,
+  "Algorithm_Date": "2023-07-19"
+}

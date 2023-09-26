@@ -1,0 +1,16 @@
+macd
+rsi
+aroon
+adx
+bollinger
+stochastic
+chandelier
+pivots
+adl
+mfi
+obv
+pvo
+zigzag
+bop
+elder
+chop

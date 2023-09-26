@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 5,
+  "Indicator_List": ["macd", "obv", "rsi", "pivots"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "D/D/D/D/I",
+  "Sell_Pattern": "I/D/I/D/I",
+  "Sell_Profit": 0.07,
+  "Sell_Loss": -0.11,
+
+  "Algorithm_Value": 3.0409,
+  "Algorithm_Date": "2023-07-16"
+}

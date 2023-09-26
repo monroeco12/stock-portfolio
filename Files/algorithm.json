@@ -1,0 +1,25 @@
+{
+  "Simulation": "False",
+  "Sim_Funds": 3000,
+
+  "Back_Test_Count": 10,
+  "Research_Range_In_Days": 28,
+  "Dataframe_Range_In_Years": 5,
+
+  "Research_Loop_Minutes": 0.0001,
+
+  "Past_Periods": "N/A",
+  "Indicator_List": "N/A",
+  "Indicator_Strength": "N/A",
+  "Buy_Pattern": "N/A",
+  "Sell_Pattern": "N/A",
+  "Sell_Profit": "N/A",
+  "Sell_Loss": "N/A",
+
+  "Max_Stock_Count": 100,
+  "Max_Stock_Percent": 0.04,
+  "Max_Sector_Percent": 1.00,
+
+  "Algorithm_Value": "N/A",
+  "Algorithm_Date": "N/A"
+}

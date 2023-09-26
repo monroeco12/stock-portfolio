@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 15,
+  "Indicator_List": ["mfi"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "D/D",
+  "Sell_Pattern": "I/I",
+  "Sell_Profit": 0.065,
+  "Sell_Loss": -0.14,
+
+  "Algorithm_Value": 2.3382,
+  "Algorithm_Date": "2023-08-06"
+}

@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 140,
+  "Indicator_List": ["chandelier", "bollinger"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "D/D/D",
+  "Sell_Pattern": "IGNORE",
+  "Sell_Profit": 0.015,
+  "Sell_Loss": -0.2,
+
+  "Algorithm_Value": 2.274,
+  "Algorithm_Date": "2023-03-26"
+}

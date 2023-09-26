@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 120,
+  "Indicator_List": ["obv"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "I/I",
+  "Sell_Pattern": "D/D",
+  "Sell_Profit": 0.015,
+  "Sell_Loss": -0.05,
+
+  "Algorithm_Value": 6.6565,
+  "Algorithm_Date": "2023-06-17"
+}

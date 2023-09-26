@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 5,
+  "Indicator_List": ["chop"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "D/I",
+  "Sell_Pattern": "I/D",
+  "Sell_Profit": 0.1,
+  "Sell_Loss": -0.02,
+
+  "Algorithm_Value": 2.6904,
+  "Algorithm_Date": "2023-07-30"
+}

@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 30,
+  "Indicator_List": ["bollinger", "rsi", "chandelier", "obv"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "D/D/D/D/D",
+  "Sell_Pattern": "D/D/D/I/I",
+  "Sell_Profit": 0.055,
+  "Sell_Loss": -0.12,
+
+  "Algorithm_Value": 2.8337,
+  "Algorithm_Date": "2023-08-05"
+}

@@ -1,0 +1,173 @@
+[2023-08-17 06:06:13] PROGRAM STARTED          : /.../RUN.py has begun.                                                
+[2023-08-17 06:06:16] CURRENT USER             : jdoe user files have been accessed.
+[2023-08-17 06:06:22] SCRAPED DATA             : /.../scrape_AAPL_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:06:22] CSV DATAFRAME            : /.../AAPL/.../indicator_data.csv has been created.                    
+[2023-08-17 06:06:23] RESEARCH BACKUP          : AAPL long term research backups have been updated.                    
+[2023-08-17 06:06:30] SCRAPED DATA             : /.../scrape_ABBV_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:06:30] CSV DATAFRAME            : /.../ABBV/.../indicator_data.csv has been created.                    
+[2023-08-17 06:06:31] ALGORITHM PAUSE          : /.../ABBV/algorithm.json update paused due to stock ownership.        
+[2023-08-17 06:06:31] RESEARCH BACKUP          : ABBV long term research backups have been updated.                    
+[2023-08-17 06:06:37] SCRAPED DATA             : /.../scrape_ACN_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:06:37] CSV DATAFRAME            : /.../ACN/.../indicator_data.csv has been created.                     
+[2023-08-17 06:06:38] ALGORITHM PAUSE          : /.../ACN/algorithm.json update paused due to stock ownership.         
+[2023-08-17 06:06:38] RESEARCH BACKUP          : ACN long term research backups have been updated.                     
+[2023-08-17 06:06:44] SCRAPED DATA             : /.../scrape_ADBE_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:06:44] CSV DATAFRAME            : /.../ADBE/.../indicator_data.csv has been created.                    
+[2023-08-17 06:06:45] ALGORITHM PAUSE          : /.../ADBE/algorithm.json update paused due to stock ownership.        
+[2023-08-17 06:06:45] RESEARCH BACKUP          : ADBE long term research backups have been updated.                    
+[2023-08-17 06:06:52] SCRAPED DATA             : /.../scrape_AMZN_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:06:52] CSV DATAFRAME            : /.../AMZN/.../indicator_data.csv has been created.                    
+[2023-08-17 06:06:53] ALGORITHM PAUSE          : /.../AMZN/algorithm.json update paused due to stock ownership.        
+[2023-08-17 06:06:53] RESEARCH BACKUP          : AMZN long term research backups have been updated.                    
+[2023-08-17 06:06:59] SCRAPED DATA             : /.../scrape_AVGO_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:06:59] CSV DATAFRAME            : /.../AVGO/.../indicator_data.csv has been created.                    
+[2023-08-17 06:06:59] RESEARCH BACKUP          : AVGO long term research backups have been updated.                    
+[2023-08-17 06:07:05] SCRAPED DATA             : /.../scrape_AZN_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:07:06] CSV DATAFRAME            : /.../AZN/.../indicator_data.csv has been created.                     
+[2023-08-17 06:07:06] RESEARCH BACKUP          : AZN long term research backups have been updated.                     
+[2023-08-17 06:07:12] SCRAPED DATA             : /.../scrape_BABA_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:07:12] CSV DATAFRAME            : /.../BABA/.../indicator_data.csv has been created.                    
+[2023-08-17 06:07:13] ALGORITHM PAUSE          : /.../BABA/algorithm.json update paused due to stock ownership.        
+[2023-08-17 06:07:13] RESEARCH BACKUP          : BABA long term research backups have been updated.                    
+[2023-08-17 06:07:19] SCRAPED DATA             : /.../scrape_BAC_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:07:20] CSV DATAFRAME            : /.../BAC/.../indicator_data.csv has been created.                     
+[2023-08-17 06:07:20] RESEARCH BACKUP          : BAC long term research backups have been updated.                     
+[2023-08-17 06:07:26] SCRAPED DATA             : /.../scrape_BRK-A_data.py has completed with 0 re-scrapes.            
+[2023-08-17 06:07:26] CSV DATAFRAME            : /.../BRK-A/.../indicator_data.csv has been created.                   
+[2023-08-17 06:07:27] RESEARCH BACKUP          : BRK-A long term research backups have been updated.                   
+[2023-08-17 06:07:33] SCRAPED DATA             : /.../scrape_BRK-B_data.py has completed with 0 re-scrapes.            
+[2023-08-17 06:07:34] CSV DATAFRAME            : /.../BRK-B/.../indicator_data.csv has been created.                   
+[2023-08-17 06:07:34] ALGORITHM PAUSE          : /.../BRK-B/algorithm.json update paused due to stock ownership.       
+[2023-08-17 06:07:34] RESEARCH BACKUP          : BRK-B long term research backups have been updated.                   
+[2023-08-17 06:07:40] SCRAPED DATA             : /.../scrape_COST_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:07:41] CSV DATAFRAME            : /.../COST/.../indicator_data.csv has been created.                    
+[2023-08-17 06:07:41] ALGORITHM PAUSE          : /.../COST/algorithm.json update paused due to stock ownership.        
+[2023-08-17 06:07:41] RESEARCH BACKUP          : COST long term research backups have been updated.                    
+[2023-08-17 06:07:47] SCRAPED DATA             : /.../scrape_CRM_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:07:47] CSV DATAFRAME            : /.../CRM/.../indicator_data.csv has been created.                     
+[2023-08-17 06:07:48] RESEARCH BACKUP          : CRM long term research backups have been updated.                     
+[2023-08-17 06:07:53] SCRAPED DATA             : /.../scrape_CSCO_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:07:54] CSV DATAFRAME            : /.../CSCO/.../indicator_data.csv has been created.                    
+[2023-08-17 06:07:54] RESEARCH BACKUP          : CSCO long term research backups have been updated.                    
+[2023-08-17 06:08:01] SCRAPED DATA             : /.../scrape_CVX_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:08:01] CSV DATAFRAME            : /.../CVX/.../indicator_data.csv has been created.                     
+[2023-08-17 06:08:01] RESEARCH BACKUP          : CVX long term research backups have been updated.                     
+[2023-08-17 06:08:07] SCRAPED DATA             : /.../scrape_GOOG_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:08:07] CSV DATAFRAME            : /.../GOOG/.../indicator_data.csv has been created.                    
+[2023-08-17 06:08:08] RESEARCH BACKUP          : GOOG long term research backups have been updated.                    
+[2023-08-17 06:08:14] SCRAPED DATA             : /.../scrape_GOOGL_data.py has completed with 0 re-scrapes.            
+[2023-08-17 06:08:14] CSV DATAFRAME            : /.../GOOGL/.../indicator_data.csv has been created.                   
+[2023-08-17 06:08:14] RESEARCH BACKUP          : GOOGL long term research backups have been updated.                   
+[2023-08-17 06:08:21] SCRAPED DATA             : /.../scrape_HD_data.py has completed with 0 re-scrapes.               
+[2023-08-17 06:08:21] CSV DATAFRAME            : /.../HD/.../indicator_data.csv has been created.                      
+[2023-08-17 06:08:21] ALGORITHM PAUSE          : /.../HD/algorithm.json update paused due to stock ownership.          
+[2023-08-17 06:08:21] RESEARCH BACKUP          : HD long term research backups have been updated.                      
+[2023-08-17 06:08:28] SCRAPED DATA             : /.../scrape_JNJ_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:08:28] CSV DATAFRAME            : /.../JNJ/.../indicator_data.csv has been created.                     
+[2023-08-17 06:08:28] RESEARCH BACKUP          : JNJ long term research backups have been updated.                     
+[2023-08-17 06:08:34] SCRAPED DATA             : /.../scrape_JPM_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:08:34] CSV DATAFRAME            : /.../JPM/.../indicator_data.csv has been created.                     
+[2023-08-17 06:08:35] RESEARCH BACKUP          : JPM long term research backups have been updated.                     
+[2023-08-17 06:08:41] SCRAPED DATA             : /.../scrape_KO_data.py has completed with 0 re-scrapes.               
+[2023-08-17 06:08:41] CSV DATAFRAME            : /.../KO/.../indicator_data.csv has been created.                      
+[2023-08-17 06:08:41] ALGORITHM PAUSE          : /.../KO/algorithm.json update paused due to stock ownership.          
+[2023-08-17 06:08:41] RESEARCH BACKUP          : KO long term research backups have been updated.                      
+[2023-08-17 06:08:48] SCRAPED DATA             : /.../scrape_LLY_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:08:48] CSV DATAFRAME            : /.../LLY/.../indicator_data.csv has been created.                     
+[2023-08-17 06:08:49] ALGORITHM PAUSE          : /.../LLY/algorithm.json update paused due to stock ownership.         
+[2023-08-17 06:08:49] RESEARCH BACKUP          : LLY long term research backups have been updated.                     
+[2023-08-17 06:08:55] SCRAPED DATA             : /.../scrape_MA_data.py has completed with 0 re-scrapes.               
+[2023-08-17 06:08:55] CSV DATAFRAME            : /.../MA/.../indicator_data.csv has been created.                      
+[2023-08-17 06:08:55] ALGORITHM PAUSE          : /.../MA/algorithm.json update paused due to stock ownership.          
+[2023-08-17 06:08:55] RESEARCH BACKUP          : MA long term research backups have been updated.                      
+[2023-08-17 06:09:01] SCRAPED DATA             : /.../scrape_MCD_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:09:02] CSV DATAFRAME            : /.../MCD/.../indicator_data.csv has been created.                     
+[2023-08-17 06:09:02] ALGORITHM PAUSE          : /.../MCD/algorithm.json update paused due to stock ownership.         
+[2023-08-17 06:09:02] RESEARCH BACKUP          : MCD long term research backups have been updated.                     
+[2023-08-17 06:09:08] SCRAPED DATA             : /.../scrape_META_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:09:08] CSV DATAFRAME            : /.../META/.../indicator_data.csv has been created.                    
+[2023-08-17 06:09:09] RESEARCH BACKUP          : META long term research backups have been updated.                    
+[2023-08-17 06:09:14] SCRAPED DATA             : /.../scrape_MRK_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:09:14] CSV DATAFRAME            : /.../MRK/.../indicator_data.csv has been created.                     
+[2023-08-17 06:09:15] RESEARCH BACKUP          : MRK long term research backups have been updated.                     
+[2023-08-17 06:09:21] SCRAPED DATA             : /.../scrape_MSFT_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:09:21] CSV DATAFRAME            : /.../MSFT/.../indicator_data.csv has been created.                    
+[2023-08-17 06:09:22] ALGORITHM PAUSE          : /.../MSFT/algorithm.json update paused due to stock ownership.        
+[2023-08-17 06:09:22] RESEARCH BACKUP          : MSFT long term research backups have been updated.                    
+[2023-08-17 06:09:28] SCRAPED DATA             : /.../scrape_NGG_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:09:29] CSV DATAFRAME            : /.../NGG/.../indicator_data.csv has been created.                     
+[2023-08-17 06:09:29] ALGORITHM PAUSE          : /.../NGG/algorithm.json update paused due to stock ownership.         
+[2023-08-17 06:09:29] RESEARCH BACKUP          : NGG long term research backups have been updated.                     
+[2023-08-17 06:09:35] SCRAPED DATA             : /.../scrape_NOW_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:09:36] CSV DATAFRAME            : /.../NOW/.../indicator_data.csv has been created.                     
+[2023-08-17 06:09:36] ALGORITHM PAUSE          : /.../NOW/algorithm.json update paused due to stock ownership.         
+[2023-08-17 06:09:36] RESEARCH BACKUP          : NOW long term research backups have been updated.                     
+[2023-08-17 06:09:42] SCRAPED DATA             : /.../scrape_NVDA_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:09:42] CSV DATAFRAME            : /.../NVDA/.../indicator_data.csv has been created.                    
+[2023-08-17 06:09:42] RESEARCH BACKUP          : NVDA long term research backups have been updated.                    
+[2023-08-17 06:09:48] SCRAPED DATA             : /.../scrape_NVO_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:09:48] CSV DATAFRAME            : /.../NVO/.../indicator_data.csv has been created.                     
+[2023-08-17 06:09:49] RESEARCH BACKUP          : NVO long term research backups have been updated.                     
+[2023-08-17 06:09:55] SCRAPED DATA             : /.../scrape_NVS_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:09:56] CSV DATAFRAME            : /.../NVS/.../indicator_data.csv has been created.                     
+[2023-08-17 06:09:56] ALGORITHM PAUSE          : /.../NVS/algorithm.json update paused due to stock ownership.         
+[2023-08-17 06:09:56] RESEARCH BACKUP          : NVS long term research backups have been updated.                     
+[2023-08-17 06:10:02] SCRAPED DATA             : /.../scrape_ORCL_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:10:03] CSV DATAFRAME            : /.../ORCL/.../indicator_data.csv has been created.                    
+[2023-08-17 06:10:03] ALGORITHM PAUSE          : /.../ORCL/algorithm.json update paused due to stock ownership.        
+[2023-08-17 06:10:03] RESEARCH BACKUP          : ORCL long term research backups have been updated.                    
+[2023-08-17 06:10:09] SCRAPED DATA             : /.../scrape_PCAR_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:10:10] CSV DATAFRAME            : /.../PCAR/.../indicator_data.csv has been created.                    
+[2023-08-17 06:10:10] RESEARCH BACKUP          : PCAR long term research backups have been updated.                    
+[2023-08-17 06:10:10] DATE UPDATED             : The data scraping start date for PCGU is now 2022-01-01.              
+[2023-08-17 06:10:11] DATE UPDATED             : The data scraping start date for PCGU is now 2021-01-01.              
+[2023-08-17 06:10:13] DATE UPDATED             : The data scraping start date for PCGU is now 2020-01-01.              
+[2023-08-17 06:10:14] DATE NOT FOUND           : A data scraping start date for PCGU was not found.                    
+[2023-08-17 06:10:21] DATE UPDATED             : The data scraping start date for PCGU is now 2022-01-01.              
+[2023-08-17 06:10:22] DATE UPDATED             : The data scraping start date for PCGU is now 2021-01-01.              
+[2023-08-17 06:10:23] DATE UPDATED             : The data scraping start date for PCGU is now 2020-01-01.              
+[2023-08-17 06:10:24] DATE NOT FOUND           : A data scraping start date for PCGU was not found.                    
+[2023-08-17 06:10:30] SCRAPED DATA             : /.../scrape_PCGU_data.py has completed with 4 re-scrapes.             
+[2023-08-17 06:10:30] CSV DATAFRAME            : Not enough historical PCGU data for a csv dataframe.                  
+[2023-08-17 06:10:35] SCRAPED DATA             : /.../scrape_PEP_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:10:36] CSV DATAFRAME            : /.../PEP/.../indicator_data.csv has been created.                     
+[2023-08-17 06:10:36] RESEARCH BACKUP          : PEP long term research backups have been updated.                     
+[2023-08-17 06:10:42] SCRAPED DATA             : /.../scrape_PFE_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:10:43] CSV DATAFRAME            : /.../PFE/.../indicator_data.csv has been created.                     
+[2023-08-17 06:10:43] ALGORITHM PAUSE          : /.../PFE/algorithm.json update paused due to stock ownership.         
+[2023-08-17 06:10:43] RESEARCH BACKUP          : PFE long term research backups have been updated.                     
+[2023-08-17 06:10:49] SCRAPED DATA             : /.../scrape_PG_data.py has completed with 0 re-scrapes.               
+[2023-08-17 06:10:49] CSV DATAFRAME            : /.../PG/.../indicator_data.csv has been created.                      
+[2023-08-17 06:10:50] RESEARCH BACKUP          : PG long term research backups have been updated.                      
+[2023-08-17 06:10:56] SCRAPED DATA             : /.../scrape_SHEL_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:10:56] CSV DATAFRAME            : /.../SHEL/.../indicator_data.csv has been created.                    
+[2023-08-17 06:10:57] ALGORITHM PAUSE          : /.../SHEL/algorithm.json update paused due to stock ownership.        
+[2023-08-17 06:10:57] RESEARCH BACKUP          : SHEL long term research backups have been updated.                    
+[2023-08-17 06:11:03] SCRAPED DATA             : /.../scrape_TM_data.py has completed with 0 re-scrapes.               
+[2023-08-17 06:11:03] CSV DATAFRAME            : /.../TM/.../indicator_data.csv has been created.                      
+[2023-08-17 06:11:04] ALGORITHM PAUSE          : /.../TM/algorithm.json update paused due to stock ownership.          
+[2023-08-17 06:11:04] RESEARCH BACKUP          : TM long term research backups have been updated.                      
+[2023-08-17 06:11:10] SCRAPED DATA             : /.../scrape_TMO_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:11:11] CSV DATAFRAME            : /.../TMO/.../indicator_data.csv has been created.                     
+[2023-08-17 06:11:11] RESEARCH BACKUP          : TMO long term research backups have been updated.                     
+[2023-08-17 06:11:16] SCRAPED DATA             : /.../scrape_TSLA_data.py has completed with 0 re-scrapes.             
+[2023-08-17 06:11:17] CSV DATAFRAME            : /.../TSLA/.../indicator_data.csv has been created.                    
+[2023-08-17 06:11:17] RESEARCH BACKUP          : TSLA long term research backups have been updated.                    
+[2023-08-17 06:11:24] SCRAPED DATA             : /.../scrape_TSM_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:11:24] CSV DATAFRAME            : /.../TSM/.../indicator_data.csv has been created.                     
+[2023-08-17 06:11:24] ALGORITHM PAUSE          : /.../TSM/algorithm.json update paused due to stock ownership.         
+[2023-08-17 06:11:24] RESEARCH BACKUP          : TSM long term research backups have been updated.                     
+[2023-08-17 06:11:30] SCRAPED DATA             : /.../scrape_UNH_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:11:31] CSV DATAFRAME            : /.../UNH/.../indicator_data.csv has been created.                     
+[2023-08-17 06:11:31] RESEARCH BACKUP          : UNH long term research backups have been updated.                     
+[2023-08-17 06:11:37] SCRAPED DATA             : /.../scrape_V_data.py has completed with 0 re-scrapes.                
+[2023-08-17 06:11:37] CSV DATAFRAME            : /.../V/.../indicator_data.csv has been created.                       
+[2023-08-17 06:11:38] RESEARCH BACKUP          : V long term research backups have been updated.                       
+[2023-08-17 06:11:43] SCRAPED DATA             : /.../scrape_WMT_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:11:43] CSV DATAFRAME            : /.../WMT/.../indicator_data.csv has been created.                     
+[2023-08-17 06:11:44] RESEARCH BACKUP          : WMT long term research backups have been updated.                     
+[2023-08-17 06:11:50] SCRAPED DATA             : /.../scrape_XOM_data.py has completed with 0 re-scrapes.              
+[2023-08-17 06:11:50] CSV DATAFRAME            : /.../XOM/.../indicator_data.csv has been created.                     
+[2023-08-17 06:11:51] RESEARCH BACKUP          : XOM long term research backups have been updated.                     
+[2023-08-17 06:11:51] ACCOUNT BACKUP           : jdoe account file backups have been updated.
+[2023-08-17 06:11:51] PROGRAM COMPLETED        : /.../RUN.py has completed with an execution time of 0:05:37.711073.   

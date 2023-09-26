@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 160,
+  "Indicator_List": ["chandelier"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "I/I",
+  "Sell_Pattern": "D/D",
+  "Sell_Profit": 0.01,
+  "Sell_Loss": -0.11,
+
+  "Algorithm_Value": 2.5474,
+  "Algorithm_Date": "2023-04-29"
+}

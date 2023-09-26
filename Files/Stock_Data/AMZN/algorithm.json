@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 125,
+  "Indicator_List": ["rsi"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "I/I",
+  "Sell_Pattern": "I/D",
+  "Sell_Profit": 0.05,
+  "Sell_Loss": -0.13,
+
+  "Algorithm_Value": 3.8537,
+  "Algorithm_Date": "2023-06-03"
+}

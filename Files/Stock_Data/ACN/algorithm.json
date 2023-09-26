@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 5,
+  "Indicator_List": ["pvo", "stochastic", "elder"],
+  "Indicator_Strength": 1,
+  "Buy_Pattern": "D/I/D/D",
+  "Sell_Pattern": "IGNORE",
+  "Sell_Profit": 0.065,
+  "Sell_Loss": -0.1,
+
+  "Algorithm_Value": 2.4567,
+  "Algorithm_Date": "2023-07-19"
+}

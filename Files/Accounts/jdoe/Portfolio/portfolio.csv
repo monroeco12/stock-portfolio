@@ -1,0 +1,28 @@
+Purchase_Date,Ticker,Sector,Industry,Shares,Price,Investment,Available_Funds
+2023-04-05,PFE,Health Care,Biotechnology: Pharmaceutical Preparations,3.507,41.36,145.0495,3296.47
+2023-04-25,SHEL,Energy,Oil & Gas Production,2.972,61.49,182.7483,3296.47
+2023-07-12,ORCL,Technology,Computer Software: Prepackaged Software,4.516,115.97,523.7205,3296.47
+2023-07-13,NVS,Health Care,Biotechnology: Pharmaceutical Preparations,5.3151,98.62,524.1752,3296.47
+2023-07-19,MA,Consumer Discretionary,Business Services,1.3103,398.11,521.6435,3296.47
+2023-07-21,ACN,Consumer Discretionary,Business Services,1.6685,313.29,522.7244,3296.47
+2023-07-24,MSFT,Technology,Computer Software: Prepackaged Software,1.1327,346.07,391.9935,3296.47
+2023-07-24,ADBE,Technology,Computer Software: Prepackaged Software,0.7485,520.25,389.4071,3296.47
+2023-07-24,NGG,Utilities,Natural Gas Distribution,5.6671,69.19,392.1066,3296.47
+2023-07-31,ABBV,Health Care,Biotechnology: Pharmaceutical Preparations,2.5914,150.45,389.8761,3296.47
+2023-08-02,MCD,Consumer Discretionary,Restaurants,1.795,290.5,521.4475,3296.47
+2023-08-03,BABA,Consumer Discretionary,Catalog/Specialty Distribution,5.4972,97.04,533.4483,3296.47
+2023-08-03,HD,Consumer Discretionary,RETAIL: Building Materials,1.5909,328.39,522.4357,3296.47
+2023-08-08,TSM,Technology,Semiconductors,5.4221,94.83,514.1777,3296.47
+2023-08-09,AMZN,Consumer Discretionary,Catalog/Specialty Distribution,3.7412,139.96,523.6184,3296.47
+2023-08-09,TM,Consumer Discretionary,Auto Manufacturing,3.0745,168.19,517.1002,3296.47
+2023-08-10,NOW,Technology,Computer Software: Prepackaged Software,0.9513,557.35,530.2071,3296.47
+2023-08-10,COST,Consumer Discretionary,Department/Specialty Retail Stores,0.9354,563.66,527.2476,3296.47
+2023-08-11,KO,Consumer Staples,Beverages (Production/Distribution),8.561,60.87,521.1081,3296.47
+2023-08-14,LLY,Health Care,Biotechnology: Pharmaceutical Preparations,0.9872,535.0,528.152,3296.47
+2023-08-14,BRK-B,N/A,N/A,1.4554,358.11,521.1933,3296.47
+2023-08-17,CSCO,Telecommunications,Computer Communications Equipment,9.849,52.96,PENDING_BUY,3296.47
+2023-08-17,BABA,--,--,5.4972,89.12,PENDING_SELL,3296.47
+2023-08-17,HD,--,--,1.5909,333.03,PENDING_SELL,3296.47
+2023-08-17,KO,--,--,8.561,60.48,PENDING_SELL,3296.47
+2023-08-17,ORCL,--,--,4.516,115.34,PENDING_SELL,3296.47
+--,--,--,--,--,--,--,3296.47

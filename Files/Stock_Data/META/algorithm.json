@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 20,
+  "Indicator_List": ["zigzag"],
+  "Indicator_Strength": 0,
+  "Buy_Pattern": "I/I",
+  "Sell_Pattern": "I/D",
+  "Sell_Profit": 0.03,
+  "Sell_Loss": -0.25,
+
+  "Algorithm_Value": 4.229,
+  "Algorithm_Date": "2023-05-20"
+}

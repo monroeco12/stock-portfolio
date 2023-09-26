@@ -1,0 +1,12 @@
+{
+  "Past_Periods": 50,
+  "Indicator_List": ["aroon"],
+  "Indicator_Strength": 2,
+  "Buy_Pattern": "D/D",
+  "Sell_Pattern": "I/I",
+  "Sell_Profit": 0.095,
+  "Sell_Loss": -0.04,
+
+  "Algorithm_Value": 3.2512,
+  "Algorithm_Date": "2023-04-06"
+}
