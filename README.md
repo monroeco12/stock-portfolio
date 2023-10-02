@@ -18,3 +18,12 @@ You can easily install these required packages by running the following command:
 
 # Configuration
 You can tailor the **algorithm.json** file located in the **Files** directory to align with your preferences before executing the program. Adjustments can be made for the following:
+1. Simulation Configuration:
+- Simulation: Set this to True if you want to enable simulation mode, or False to disable it.
+- Sim_Funds: Specify the initial amount of simulated funds available for trading. The default is 3000.
+2. Back-Testing Configuration:
+- Back_Test_Count: Set the number of backtests you want to perform for your trading strategy. The default is 10.
+- Research_Range_In_Days: Determine the number of days of historical data you want to use for research purposes. The default is 28.
+- Dataframe_Range_In_Years: Define the number of years of historical data you want to load into your dataframes. The default is 5.
+3. Research Loop Configuration:
+- Research_Loop_Minutes: Set the time interval (in minutes) for the research loop. The default is 0.0001 minutes, which is a very short interval.
