@@ -23,7 +23,7 @@ You can tailor the **algorithm.json** file located in the **Files** directory to
    - 'Sim_Funds': Specify the initial amount of simulated funds available for trading simulations. The default is 3000.
 2. **Back-Testing Configuration:**
    - 'Back_Test_Count': Set the number of backtests you want to perform for each trading strategy. The default is 10.
-   - 'Research_Range_In_Days': Determine the number of days of historical data you want to use for research purposes. The default is 28.
-   - 'Dataframe_Range_In_Years': Define the number of years of historical data you want to load into your stock dataframes. The default is 5.
+   - 'Research_Range_In_Days': Determine the range (in days) of historical data you want to use for research purposes. The default is 28.
+   - 'Dataframe_Range_In_Years': Define the range (in years) of historical data you want to load into the stock dataframes. The default is 5.
 3. **Research Loop Configuration:**
    - 'Research_Loop_Minutes': Set the time interval (in minutes) for the research loop of each individual stock. The default is 3 minutes.
