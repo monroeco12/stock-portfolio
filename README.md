@@ -13,4 +13,5 @@ Before you begin using this program, please ensure that you have the following p
 6. **stock-indicators:** Applies various financial indicators to stock data for analysis.
 7. **termcolor:** Integrates colored text into terminal output.
 
-You can easily install these required packages by running the following command: *pip install numpy*
+You can easily install these required packages by running the following command: 
+- *pip install numpy pandas requests scipy stock-indicators termcolor*
