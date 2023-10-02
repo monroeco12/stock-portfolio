@@ -16,9 +16,9 @@
   "Sell_Profit": "N/A",
   "Sell_Loss": "N/A",
 
-  "Max_Stock_Count": 100,
-  "Max_Stock_Percent": 0.04,
-  "Max_Sector_Percent": 1.00,
+  "Max_Stock_Count": 30,
+  "Max_Stock_Percent": 0.03,
+  "Max_Sector_Percent": 0.10,
 
   "Algorithm_Value": "N/A",
   "Algorithm_Date": "N/A"
