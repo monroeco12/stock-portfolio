@@ -31,3 +31,5 @@ You can tailor the **algorithm.json** file located in the **Files** directory to
    - 'Max_Stock_Count': Set the maximum number of stocks allowed in your portfolio. The default is 30.
    - 'Max_Stock_Percent': Define the maximum percentage of your total portfolio value that can be invested in a single stock. The default is 0.03 (3%).
    - 'Max_Sector_Percent': Define the maximum percentage of your total portfolio value that can be invested in a single sector (e.g., technology, healthcare). The default is 0.10 (10%).
+
+**!Items marked as 'N/A' should be disregarded, as these are not adjustable!**
