@@ -6,7 +6,7 @@
   "Research_Range_In_Days": 28,
   "Dataframe_Range_In_Years": 5,
 
-  "Research_Loop_Minutes": 0.0001,
+  "Research_Loop_Minutes": 3,
 
   "Past_Periods": "N/A",
   "Indicator_List": "N/A",
