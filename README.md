@@ -27,3 +27,7 @@ You can tailor the **algorithm.json** file located in the **Files** directory to
    - 'Dataframe_Range_In_Years': Define the range (in years) of historical data you want to load into the stock dataframes. The default is 5.
 3. **Research Loop Configuration:**
    - 'Research_Loop_Minutes': Set the time interval (in minutes) for the research loop of each individual stock. The default is 3 minutes.
+4. **Portfolio Management Configuration:**
+   - 'Max_Stock_Count': Set the maximum number of stocks allowed in your portfolio. The default is 100.
+   - 'Max_Stock_Percent': Define the maximum percentage of your total portfolio value that can be invested in a single stock. The default is 0.04 (4%).
+   - 'Max_Sector_Percent': Define the maximum percentage of your total portfolio value that can be invested in a single sector (e.g., technology, healthcare). The default is 1.00 (100%).
