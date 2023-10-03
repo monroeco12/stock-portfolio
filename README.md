@@ -46,3 +46,8 @@ The program will do the following:
 
 # Logging
 You can locate the program's log file within the **Files** directory. This log diligently captures crucial activities, including data scraping completion, CSV dataframe creation, algorithm updates, research backups, and account file backups, offering an informative record of the program's operations.
+
+# Notes
+- The Nasdaq API typically updates its data after 7pm Pacific Time to provide the most current stock information.
+- Note that the 'Research_Loop_Minutes' value applies individually to each stock in the preferred stocks list, impacting the program's runtime speed significantly.
+- Keep in mind that all tax calculations are estimations and are subject to change based on each user's unique tax situation.
