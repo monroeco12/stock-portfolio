@@ -48,7 +48,7 @@ The following video shows the program* in action:
 
 https://github.com/monroeco12/stock-portfolio/assets/116775849/ce902785-1a5a-4778-9f7d-e3723172c3da
 
-**The information presented in the video is solely for demonstration purposes only and does not accuratley reflect typical portfolio management.*
+**The information presented in the video is solely for demonstration purposes only and does not accurately reflect typical portfolio management.*
 
 The video below shows how errors are handled within the program:
 
