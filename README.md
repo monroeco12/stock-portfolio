@@ -11,7 +11,7 @@ Before you begin using this program, please ensure that you have the following p
 4. **requests:** Interacts with the Nasdaq API to obtain individual stock information.
 5. **scipy:** Utilizes linear regression to discern trends in stock movement.
 6. **stock-indicators:** Applies various financial indicators to historical stock data for analysis.
-7. **termcolor:** Integrates colored text into terminal output.
+7. **termcolor:** Integrates colored text into terminal output. **(Install version 1.1.0)**
 
 You can easily install these required packages by running the following command: 
    - *pip install numpy pandas requests scipy stock-indicators termcolor*
