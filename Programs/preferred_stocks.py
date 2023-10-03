@@ -1,7 +1,5 @@
-from datetime import datetime, timedelta
 import glob
 from Programs.log_file import write_to_log_file
-from Programs.print_styles import print_error_message
 import shutil
 from termcolor import colored
 
@@ -11,7 +9,7 @@ stock_data_folder_path = 'Files/Stock_Data'
 accounts_folder_path = 'Files/Accounts'
 
 
-def purge_outdated_stocks(preferred_stocks_list, current_date):
+def purge_outdated_stocks(preferred_stocks_list):
     scraped_ticker_list = [i.split('/')[2] for i in glob.glob(f'{stock_data_folder_path}/*')]
 
     owned_ticker_set = set()
@@ -47,20 +45,6 @@ def purge_outdated_stocks(preferred_stocks_list, current_date):
 
             else:
                 print(f'\t{"":25}• Please enter either Y or N.')
-
-    for stock_ticker in owned_ticker_set:
-        if stock_ticker != '--':
-            historical_data_file_path = f'{stock_data_folder_path}/{stock_ticker}/Historical_Data/historical_data.csv'
-
-            with open(historical_data_file_path, 'r') as historical_data_file:
-                for line in historical_data_file:
-                    pass
-                date = datetime.strptime(line.split(',')[0], '%Y-%m-%d')
-
-            if (current_date - date) >= timedelta(days=5):
-                print_error_message(error='OUTDATED STOCK',
-                                    message=f'{stock_ticker} is found in portfolios '
-                                            f'but has not been updated since {str(date).split(" ")[0]}')
 
     return owned_ticker_set
 
