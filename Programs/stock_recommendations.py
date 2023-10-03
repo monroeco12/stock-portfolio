@@ -2,6 +2,7 @@ from datetime import datetime, timedelta
 import numpy as np
 import scipy
 from statistics import median
+import warnings
 
 
 def determine_trend_line(index_array, data_array):
@@ -42,6 +43,8 @@ def make_signal_determination(algorithm_dict, is_simulation, csv_dataframe, curr
     if market_open is True:
 
         if is_simulation == "TRUE":
+            warnings.filterwarnings("ignore", category=FutureWarning)
+            
             next_open_price = float(csv_dataframe[csv_dataframe['date'] == current_date]['open'])
             csv_dataframe = csv_dataframe[csv_dataframe['date'] < current_date]
         else:
