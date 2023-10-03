@@ -44,7 +44,13 @@ The program will do the following:
 6. If not in simulation mode, execute and sort stock recommendations, update records, and calculate user performance.
 7. Lastly, the program displays the execution time, maintains activity records, and archives the log file for future reference.
 
+The following video shows the program* in action:
+
 https://github.com/monroeco12/stock-portfolio/assets/116775849/ce902785-1a5a-4778-9f7d-e3723172c3da
+
+**The price adjustments and stock recommendations presented in the video are solely for demonstration purposes.*
+
+The video below shows how errors are handled within the program:
 
 https://github.com/monroeco12/stock-portfolio/assets/116775849/4eb7cbe7-817b-46c3-b81e-f6a2f55ed226
 
