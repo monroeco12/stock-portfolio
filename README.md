@@ -44,6 +44,10 @@ The program will do the following:
 6. If not in simulation mode, execute and sort stock recommendations, update records, and calculate user performance.
 7. Lastly, the program displays the execution time, maintains activity records, and archives the log file for future reference.
 
+https://github.com/monroeco12/stock-portfolio/assets/116775849/ce902785-1a5a-4778-9f7d-e3723172c3da
+
+https://github.com/monroeco12/stock-portfolio/assets/116775849/4eb7cbe7-817b-46c3-b81e-f6a2f55ed226
+
 # Logging
 You can locate the program's log file within the **Files** directory. This log diligently captures crucial activities, including data scraping completion, CSV dataframe creation, algorithm updates, research backups, and account file backups, offering an informative record of the program's operations.
 
