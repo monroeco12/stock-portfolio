@@ -33,3 +33,13 @@ You can tailor the **algorithm.json** file located in the **Files** directory to
    - 'Max_Sector_Percent': Define the maximum percentage of your total portfolio value that can be invested in a single sector (e.g., technology, healthcare). The default is 0.10 (10%).
 
 ***Items marked as 'N/A' should be disregarded, as these are not adjustable!***
+
+# Usage
+The program will do the following:
+1. Capture the current date and time and clear the log file for a fresh start.
+2. Retrieve algorithm settings and check if it's in simulation mode.
+3. Print a friendly greeting and collect user information depending on the current mode.
+4. Obtain a list of preferred stocks for analysis.
+5. Iterate through selected stocks, collecting data, conducting research, and generating recommendations.
+6. If not in simulation mode, execute and sort stock recommendations, update records, and calculate user performance.
+7. Lastly, the program displays the execution time, maintains activity records, and archives the log file for future reference.
