@@ -12,7 +12,7 @@ accounts_folder_path = 'Files/Accounts'
 
 
 def purge_outdated_stocks(preferred_stocks_list, current_date):
-    scraped_ticker_list = [i.split('/')[8] for i in glob.glob(f'{stock_data_folder_path}/*')]
+    scraped_ticker_list = [i.split('/')[2] for i in glob.glob(f'{stock_data_folder_path}/*')]
 
     owned_ticker_set = set()
     for file_path in glob.glob(f'{accounts_folder_path}/*/Portfolio/portfolio.csv'):
