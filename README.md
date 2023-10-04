@@ -46,13 +46,13 @@ The program will do the following:
 
 The following video shows the program* in action:
 
-https://github.com/monroeco12/stock-portfolio/assets/116775849/395eec44-77f8-408c-9088-964552c9fe29
+https://github.com/monroeco12/stock-portfolio/assets/116775849/caf5ef2e-1591-494c-8de1-fb516740efd6
 
 **The information presented in the video is for demonstration purposes only.*
 
 The video below shows how errors are handled within the program:
 
-https://github.com/monroeco12/stock-portfolio/assets/116775849/4eb7cbe7-817b-46c3-b81e-f6a2f55ed226
+https://github.com/monroeco12/stock-portfolio/assets/116775849/3ff0efc1-dd65-41e1-b466-945006267d35
 
 # Logging
 You can locate the program's log file within the **Files** directory. This log diligently captures crucial activities, including data scraping completion, CSV dataframe creation, algorithm updates, research backups, and account file backups, offering an informative record of the program's operations.
