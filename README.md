@@ -46,9 +46,9 @@ The program will do the following:
 
 The following video shows the program* in action:
 
-https://github.com/monroeco12/stock-portfolio/assets/116775849/ce902785-1a5a-4778-9f7d-e3723172c3da
+https://github.com/monroeco12/stock-portfolio/assets/116775849/395eec44-77f8-408c-9088-964552c9fe29
 
-**The information presented in the video is solely for demonstration purposes only and does not accurately reflect typical portfolio management.*
+**The information presented in the video is for demonstration purposes only.*
 
 The video below shows how errors are handled within the program:
 
